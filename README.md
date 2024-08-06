@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python et php
 - 💞️ I’m looking to collaborate on sur des projets avec vous
 - 📫 How to reach me st4074677@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Dev95-ci/Dev95-ci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
